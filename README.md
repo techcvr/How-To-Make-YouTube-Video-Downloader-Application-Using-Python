@@ -86,3 +86,9 @@ root.mainloop()
 
 <p><strong>Note : </strong>This article is for personal record only, whenever i found something useful i share it to my site and the users who use it so i can get the code whenever i want. i dont have to remembers the multiple site for searching same code in future.</p>
 
+
+## Connect With Me <br>
+Telegram - https://t.me/techcvr <br>
+Discord - https://discord.gg/bcH8nGU <br>
+YouTube - https://www.youtube.com/techcvr <br>
+Instagram - https://www.instagram.com/vishalgaire/
